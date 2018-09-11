@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyShppingUsingMybatis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyShppingUsingMybatis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyShppingUsingMybatis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyShppingUsingMybatis" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
